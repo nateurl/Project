@@ -1,1 +1,13 @@
-nul
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+p {
+  font-family: Arial;
+  font-size: 20px;
+}
