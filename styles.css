@@ -20,11 +20,12 @@ p {
 .header {
   position:relative;
   text-align:center;
-  background: linear-gradient(60deg, rgba(84,58,183,1) 0%, rgba(0,172,193,1) 100%);
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,13,121,1) 16%, rgba(5,122,125,1) 63%, rgba(11,61,45,1) 100%);
   color:white;
 }
 .logo {
-  width:50px;
+  width:5px;
   fill:white;
   padding-right:15px;
   display:inline-block;
@@ -103,3 +104,4 @@ p {
     font-size:24px;
   }
 }
+
