@@ -5,6 +5,11 @@
   box-sizing: border-box;
 }
 
+/* Add the gradient background to the body */
+body {
+  background: linear-gradient(to bottom, #B8E7FB, #F4F9FA);
+}
+
 /* Style the header */
 header {
   background-color: #333;
